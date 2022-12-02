@@ -1,0 +1,176 @@
+.navigation{
+    background-color:rgb(66, 66, 126);
+    color:white;
+    padding:1rem;
+    display:flex;
+    align-items:flex-start;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-bottom-left-radius:10px;
+}
+.navigation .link{
+    color:white;
+    text-decoration:none;
+}
+.list-item-inline{
+    display:inline;
+    padding:0.5rem;
+}
+.non-bullet{
+    text-decoration: none;
+    list-style: none;
+    text-align:right;
+    margin-top:0rem;
+}
+.main-head{
+    font-weight:bold;
+    width:77%;
+}
+.header{
+        text-align: center;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        background-color:rgb(231, 226, 226);
+        padding-bottom: 1rem;
+}
+.header-main{
+    color:rgb(66, 66, 126);
+}
+.technologies{
+ 
+    padding: 3rem;
+    background-color:white;
+  
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.projects{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 3rem;
+    background-color:rgb(231, 226, 226);
+}
+.browse-button{
+    text-decoration: none;
+    color:rgb(66, 66, 126);
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-top:10px;
+}
+.blogs{
+    padding: 3rem;
+    background-color:white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.footer {
+    text-align: center;
+    padding:1rem;
+    background-color: rgb(66, 66, 126);
+    border-bottom-left-radius:10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 2rem;
+}
+.footer-head{
+    color:white;
+}
+.footer-link{
+    text-decoration:none;
+    color:white;
+}
+.footer .link{
+    color:white;
+    text-decoration:none;
+}
+.footer-list{
+    text-align: center;
+}
+.footer .non-bullet{
+    text-align:center;
+    padding-right:2rem;
+    margin:1rem;
+    margin-bottom: 3rem;
+}
+.footer-text{
+    color:rgb(231, 226, 226);
+}
+
+
+
+
+#heading{
+    margin-left: 40%;
+    margin-bottom: 0;
+}
+.blog-container{
+    width: 60%;
+    text-align: center;
+    margin-left: 20%;
+    border-radius: 10px;
+    margin-top:2rem;
+    box-shadow: 10px 8px 7px 8px #605288;
+    height: 240px;
+    padding-top: 0.5rem;
+    margin-bottom:2rem ;
+    color:white;
+}
+.dummy{
+    padding: 1rem;
+}
+.big{
+    height: 330px;
+}
+.background-light{
+    background-color:rgb(66, 66, 126) ;
+}
+
+
+.small{
+    font-size: small;
+}
+.blog-para{
+    margin-bottom: 2rem;
+}
+.link-secondary{
+    margin: 1rem;
+    padding: 0.6rem 1.2rem;
+    border-radius: 2rem;
+    border: 1px solid black;
+    color: black;
+    background-color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.link-secondary:hover{
+    background-color: black;
+    color:white;
+}
+.project-container-dark{
+    padding: 2rem;
+    background-color: rgb(66, 66, 126);
+    color:white;
+}
+.project-container-light{
+    padding: 2rem;
+}
+.btn-dark{
+    padding: 0.7rem;
+    border-radius: 2rem;
+    border: 1px solid black;
+    color: white;
+    background-color: rgb(66, 66, 126);
+    text-decoration: none;
+    font-weight: bold;
+    margin-right:0.5rem;
+}
+.btn-light{
+    padding: 0.7rem;
+    border-radius: 2rem;
+    border: 1px solid black;
+    color: rgb(66, 66, 126);
+    background-color: white;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right:0.5rem;
+}
+.project-buttons{
+    margin-top: 30px;
+    margin-left: 0;
+}
+
+
