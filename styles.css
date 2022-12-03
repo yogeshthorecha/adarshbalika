@@ -99,6 +99,13 @@
     margin-bottom: 0;
     
 }
+.blog-heading{
+
+    margin-left: 42%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 0;
+
+}
 .blog-container{
     width: 60%;
     text-align: center;
@@ -110,7 +117,7 @@
     padding-top: 0.5rem;
     margin-bottom:2rem ;
     color:black;
-    rgb(231, 226, 226);
+    background-color: rgb(231, 226, 226);
     font-family:Verdana, Geneva, Tahoma, sans-serif;
         padding:0.5rem;
 }
