@@ -93,9 +93,11 @@
 
 
 
-#heading{
+#project-heading{
     margin-left: 40%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     margin-bottom: 0;
+    
 }
 .blog-container{
     width: 60%;
