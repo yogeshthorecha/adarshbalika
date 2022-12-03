@@ -147,7 +147,7 @@
     font-weight: bold;
 }
 .link-secondary:hover{
-    background-color: black;
+    background-color: rgb(66, 66, 126);
     color:white;
 }
 .project-container-dark{
