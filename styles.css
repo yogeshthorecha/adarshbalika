@@ -176,5 +176,14 @@
     margin-top: 30px;
     margin-left: 0;
 }
+.btn-dark:hover{
+    color: black;
+    background-color: white;
+}
+.btn-light:hover{
+    color: white;
+    background-color: black;
+}
+
 
 
