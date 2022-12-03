@@ -144,9 +144,11 @@
     padding: 2rem;
     background-color: rgb(231, 226, 226);
     color:black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 .project-container-light{
     padding: 2rem;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 .btn-dark{
     padding: 0.7rem;
