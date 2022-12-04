@@ -13,6 +13,14 @@
      font-size:1.2rem;
      font-family: 'Source Sans Pro', sans-serif;
 }
+.navigation .link:hover{
+        padding: 10px;
+        border-color: white;
+        border-radius: 20%;
+        border-left-color: black; border-top-color: black;
+         background-color: #adadad;
+    
+}
 .list-item-inline{
     display:inline;
     padding:0.5rem;
