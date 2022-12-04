@@ -21,11 +21,11 @@
     text-decoration: none;
     list-style: none;
     text-align:right;
-    margin-top:1.3rem;
+    margin-top:1.5rem;
 }
 .main-head{
     font-size:1.5rem;
-    
+    margin-left:0.3rem;
      font-family: 'Source Sans Pro', sans-serif;
     font-weight:bold;
     width:77%;
