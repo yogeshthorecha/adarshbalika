@@ -10,7 +10,7 @@
 .navigation .link{
     color:white;
     text-decoration:none;
-     font-size:1.3rem;
+     font-size:1.2rem;
      font-family: 'Source Sans Pro', sans-serif;
 }
 .list-item-inline{
@@ -21,9 +21,12 @@
     text-decoration: none;
     list-style: none;
     text-align:right;
-    margin-top:1rem;
+    margin-top:1.3rem;
 }
 .main-head{
+    font-size:1.4rem;
+    
+     font-family: 'Source Sans Pro', sans-serif;
     font-weight:bold;
     width:77%;
 }
